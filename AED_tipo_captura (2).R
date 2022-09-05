@@ -351,4 +351,4 @@ plot_grid(g,h,ncol = 2,nrow = 1)
 
 
 # prboando
-
+# todo por ahora esta ok
